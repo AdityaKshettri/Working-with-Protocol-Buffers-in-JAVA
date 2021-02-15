@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.gradle:osdetector-gradle-plugin:1.6.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.gradle/osdetector-gradle-plugin/1.6.2/9269ee60f07f9ee6726c99aad23776f36f50499f/osdetector-gradle-plugin-1.6.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.gradle/osdetector-gradle-plugin/1.6.2/aa224385ec709cfe95efd6c10f72727ba3b94c5d/osdetector-gradle-plugin-1.6.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

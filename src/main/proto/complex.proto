@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+package example.complex;
+
+message ComplexMessage {
+  DummyMessage dummy = 1;
+  repeated DummyMessage multiple_dummy = 2;
+}
+
+message DummyMessage {
+  int32 id = 1;
+  string name = 2;
+}

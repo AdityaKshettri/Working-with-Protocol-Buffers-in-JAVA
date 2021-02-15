@@ -1,0 +1,9 @@
+com/aditya/project/protobuf/SimpleMain.java
+ com.aditya.project.protobuf.SimpleMain
+example/simple/Simple.java
+ example.simple.Simple
+ example.simple.Simple$1
+ example.simple.Simple$SimpleMessage
+ example.simple.Simple$SimpleMessage$1
+ example.simple.Simple$SimpleMessage$Builder
+ example.simple.Simple$SimpleMessageOrBuilder
